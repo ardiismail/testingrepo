@@ -1,0 +1,3 @@
+Book list to read:
+- Sam Newman, Monolith to Microservices
+- Eric Evans, Domain Driven Design
