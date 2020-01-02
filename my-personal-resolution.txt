@@ -2,8 +2,10 @@ My resolution for 2020
 - Consistent to learn programming
   * Java
   * Golang
+  * Angular
 - Get Certified
   * AWS
   * Google Cloud
+  * Alibaba Cloud
 - More time with family
   * Play with Malik & Amma
