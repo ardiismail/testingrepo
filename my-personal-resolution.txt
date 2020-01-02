@@ -1,3 +1,7 @@
 My resolution for 2020
 - Consistent to learn programming
+  * Java
+  * Golang
 - Get Certified
+  * AWS
+  * Google Cloud
